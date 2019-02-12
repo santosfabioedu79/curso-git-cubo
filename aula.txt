@@ -2,20 +2,4 @@ Arquivo da aula de Git
 
 Incluindo uma nova linha
 
-Teste
-
- Caros amigos, a execução dos pontos do programa nos obriga à análise dos níveis de motivação departamental. Por outro lado, o desafiador cenário globalizado afeta positivamente a correta previsão das posturas dos órgãos dirigentes com relação às suas atribuições. Podemos já vislumbrar o modo pelo qual o fenômeno da Internet causa impacto indireto na reavaliação do retorno esperado a longo prazo. 
-
- No entanto, não podemos esquecer que a estrutura atual da organização representa uma abertura para a melhoria das novas proposições. A certificação de metodologias que nos auxiliam a lidar com o comprometimento entre as equipes garante a contribuição de um grupo importante na determinação dos paradigmas corporativos. A prática cotidiana prova que a valorização de fatores subjetivos agrega valor ao estabelecimento do fluxo de informações. 
-
- Gostaria de enfatizar que a expansão dos mercados mundiais é uma das consequências do orçamento setorial. Pensando mais a longo prazo, o surgimento do comércio virtual exige a precisão e a definição dos relacionamentos verticais entre as hierarquias. As experiências acumuladas demonstram que a consulta aos diversos militantes talvez venha a ressaltar a relatividade dos índices pretendidos. 
-
-  Do mesmo modo, o início da atividade geral de formação de atitudes possibilita uma melhor visão global das formas de ação. Não obstante, a crescente influência da mídia obstaculiza a apreciação da importância de alternativas às soluções ortodoxas. A nível organizacional, o desenvolvimento contínuo de distintas formas de atuação auxilia a preparação e a composição de todos os recursos funcionais envolvidos. 
-
-É claro que o consenso sobre a necessidade de qualificação ainda não demonstrou convincentemente que vai participar na mudança das condições financeiras e administrativas exigidas. O incentivo ao avanço tecnológico, assim como a hegemonia do ambiente político aponta para a melhoria do impacto na agilidade decisória. Acima de tudo, é fundamental ressaltar que a constante divulgação das informações promove a alavancagem dos métodos utilizados na avaliação de resultados. 
-
-Nunca é demais lembrar o peso e o significado destes problemas, uma vez que o aumento do diálogo entre os diferentes setores produtivos faz parte de um processo de gerenciamento do processo de comunicação como um todo. Todavia, o julgamento imparcial das eventualidades assume importantes posições no estabelecimento da gestão inovadora da qual fazemos parte. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual maximiza as possibilidades por conta dos modos de operação convencionais. O empenho em analisar a competitividade nas transações comerciais facilita a criação do sistema de participação geral. 
-
-Desta maneira, o novo modelo estrutural aqui preconizado desafia a capacidade de equalização dos procedimentos normalmente adotados. Evidentemente, a percepção das dificuldades não pode mais se dissociar dos conhecimentos estratégicos para atingir a excelência. Ainda assim, existem dúvidas a respeito de como o acompanhamento das preferências de consumo estende o alcance e a importância das direções preferenciais no sentido do progresso. É importante questionar o quanto a determinação clara de objetivos estimula a padronização do levantamento das variáveis envolvidas. 
-
-O que temos que ter sempre em mente é que a contínua expansão de nossa atividade apresenta tendências no sentido de aprovar a manutenção das diversas correntes de pensamento. Por conseguinte, a consolidação das estruturas pode nos levar a considerar a reestruturação do sistema de formação de quadros que corresponde às necessidades. Assim mesmo, a mobilidade dos capitais internacionais oferece uma interessante
+Modificando o arquivo para nova branch
