@@ -1,3 +1,5 @@
 Arquivo da aula de Git
 
 Incluindo uma nova linha
+
+Teste
