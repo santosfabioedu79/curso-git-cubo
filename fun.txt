@@ -1,2 +1,3 @@
 Def fun(x): 
 print x
+fun(3)
